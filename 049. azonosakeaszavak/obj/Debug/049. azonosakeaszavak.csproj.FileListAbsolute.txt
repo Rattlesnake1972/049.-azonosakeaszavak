@@ -1,0 +1,15 @@
+C:\Users\gratt\source\repos\049. azonosakeaszavak\049. azonosakeaszavak\bin\Debug\_049.azonosakeaszavak.exe.config
+C:\Users\gratt\source\repos\049. azonosakeaszavak\049. azonosakeaszavak\bin\Debug\_049.azonosakeaszavak.exe
+C:\Users\gratt\source\repos\049. azonosakeaszavak\049. azonosakeaszavak\bin\Debug\_049.azonosakeaszavak.pdb
+C:\Users\gratt\source\repos\049. azonosakeaszavak\049. azonosakeaszavak\obj\Debug\049. azonosakeaszavak.csproj.AssemblyReference.cache
+C:\Users\gratt\source\repos\049. azonosakeaszavak\049. azonosakeaszavak\obj\Debug\049. azonosakeaszavak.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\049. azonosakeaszavak\049. azonosakeaszavak\obj\Debug\_049.azonosakeaszavak.exe
+C:\Users\gratt\source\repos\049. azonosakeaszavak\049. azonosakeaszavak\obj\Debug\_049.azonosakeaszavak.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\049. azonosakeaszavak\049. azonosakeaszavak\bin\Debug\_049.azonosakeaszavak.exe.config
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\049. azonosakeaszavak\049. azonosakeaszavak\bin\Debug\_049.azonosakeaszavak.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\049. azonosakeaszavak\049. azonosakeaszavak\bin\Debug\_049.azonosakeaszavak.pdb
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\049. azonosakeaszavak\049. azonosakeaszavak\obj\Debug\049. azonosakeaszavak.csproj.AssemblyReference.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\049. azonosakeaszavak\049. azonosakeaszavak\obj\Debug\049. azonosakeaszavak.csproj.SuggestedBindingRedirects.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\049. azonosakeaszavak\049. azonosakeaszavak\obj\Debug\049. azonosakeaszavak.csproj.CoreCompileInputs.cache
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\049. azonosakeaszavak\049. azonosakeaszavak\obj\Debug\_049.azonosakeaszavak.exe
+I:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\049. azonosakeaszavak\049. azonosakeaszavak\obj\Debug\_049.azonosakeaszavak.pdb
